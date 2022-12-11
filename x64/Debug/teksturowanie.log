@@ -1,0 +1,20 @@
+﻿  Source.cpp
+D:\Grafika\teksturowanie\Source.cpp(26,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Grafika\teksturowanie\Source.cpp(63,29): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Grafika\teksturowanie\Source.cpp(64,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Grafika\teksturowanie\Source.cpp(87,118): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\teksturowanie\Source.cpp(88,83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\teksturowanie\Source.cpp(89,118): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\teksturowanie\Source.cpp(108,91): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\teksturowanie\Source.cpp(109,106): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\teksturowanie\Source.cpp(110,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\teksturowanie\Source.cpp(112,91): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\teksturowanie\Source.cpp(113,107): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\teksturowanie\Source.cpp(119,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Grafika\teksturowanie\Source.cpp(729,22): warning C4305: '=': truncation from 'double' to 'GLfloat'
+D:\Grafika\teksturowanie\Source.cpp(732,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Grafika\teksturowanie\Source.cpp(734,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Grafika\teksturowanie\Source.cpp(737,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Grafika\teksturowanie\Source.cpp(766,51): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Grafika\teksturowanie\Source.cpp(824,20): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  teksturowanie.vcxproj -> D:\Grafika\teksturowanie\x64\Debug\teksturowanie.exe
